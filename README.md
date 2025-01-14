@@ -5,4 +5,5 @@ The purpose of this project is to design and implement a relational database man
 - https://docs.google.com/document/d/1qb0vC6JjM-ILvGPoeBPd-iyo6ohbT-a78xGZMQRjc3U/edit?usp=sharing
 
 ### View SQL Script:
+- https://github.com/Brandonalan70/Automata/blob/main/Auto_Script.sql
 
